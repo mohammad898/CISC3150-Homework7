@@ -1,0 +1,19 @@
+Last login: Sat Apr 21 19:24:21 on ttys000
+Papias-MacBook-Air:~ Paru$ cd desktop
+Papias-MacBook-Air:desktop Paru$ cd aaa
+Papias-MacBook-Air:aaa Paru$ javac Calculator.java
+Papias-MacBook-Air:aaa Paru$ java Calculator
+Addition(+),Subtraction(-),Multiplication(*) and Division(/) operators
+Result: 0.0
+Papias-MacBook-Air:aaa Paru$ java Calculator 10 + 20 
+Addition(+),Subtraction(-),Multiplication(*) and Division(/) operators
+10 + 20 Result: 30.0
+Papias-MacBook-Air:aaa Paru$ java Calculator 10 - 5 
+Addition(+),Subtraction(-),Multiplication(*) and Division(/) operators
+10 - 5 Result: 5.0
+Papias-MacBook-Air:aaa Paru$ java Calculator 10 / 2 
+Addition(+),Subtraction(-),Multiplication(*) and Division(/) operators
+10 / 2 Result: 5.0
+Papias-MacBook-Air:aaa Paru$ 
+
+
