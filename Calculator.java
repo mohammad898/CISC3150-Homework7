@@ -211,9 +211,13 @@ class UserIsADumbassException extends IllegalArgumentException{
 
     } 
 /*
-    https://docs.oracle.com/javase/8/docs/api/java/lang/Double.html#parseDouble-java.lang.String-
+   https://docs.oracle.com/javase/8/docs/api/java/lang/Double.html#parseDouble-java.lang.String-
     https://docs.oracle.com/javase/tutorial/essential/exceptions/
     https://stackoverflow.com/questions/1754315/how-to-create-custom-exceptions-in-java
+    https://stackoverflow.com/questions/6772222/simple-command-line-calculator
+    https://codereview.stackexchange.com/questions/128256/a-simple-command-line-calculator
+    https://stackoverflow.com/questions/7138038/commandline-java-calculator
+    https://www.codeproject.com/Articles/12395/A-Command-Line-Calculator
     
     */
     
